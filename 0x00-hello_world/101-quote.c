@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - A program that gives result
- * Return: 0
+ * Return: 1
  */
 int main(void)
 {
