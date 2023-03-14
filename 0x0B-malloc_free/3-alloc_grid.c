@@ -19,7 +19,7 @@ if
 return (NULL);
 for
 (x = 0; x < height; x++);
-{ 
+{
 mee[x] = malloc(sizeof(int) * width);
 if
 (mee[x] == NULL)
